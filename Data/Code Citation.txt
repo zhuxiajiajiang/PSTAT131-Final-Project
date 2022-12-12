@@ -1,1 +1,0 @@
-﻿This project uses Sourav Banerjee's Dataset from https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset
